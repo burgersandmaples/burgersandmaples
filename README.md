@@ -4,4 +4,5 @@
 
 ![image alt](https://github.com/burgersandmaples/burgersandmaples/blob/main/Tumblr_l_180686165164822.jpg)
 ![image alt](https://github.com/burgersandmaples/burgersandmaples/blob/cfe7732fcaa39b0daa6c1494d97884ad54926947/Tumblr_l_180692994718830.jpg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=8A0000&center=true&multiline=true&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=8A0000&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me)](https://git.io/typing-svg)
