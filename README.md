@@ -1,4 +1,2 @@
 ![image alt](https://github.com/burgersandmaples/burgersandmaples/blob/main/Tumblr_l_180686165164822.jpg)
-<p align="center">
-  <img width="600" height="200" src="https://github.com/burgersandmaples/burgersandmaples/blob/main/wuxian.gif">
-</p>
+![image alt](https://github.com/burgersandmaples/burgersandmaples/blob/cfe7732fcaa39b0daa6c1494d97884ad54926947/Tumblr_l_180692994718830.jpg)
